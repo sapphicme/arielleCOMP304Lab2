@@ -10,8 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="330dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="169dp"
         android:text="@string/leaseorrenthome_inc" />
 
     <Button
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="239dp"
+        android:layout_marginBottom="68dp"
         android:text="@string/enter" />
 
     <ImageView
@@ -29,7 +29,7 @@
         android:layout_height="104dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="182dp"
+        android:layout_marginTop="50dp"
         android:contentDescription="@string/logo"
         app:srcCompat="@drawable/house" />
 
